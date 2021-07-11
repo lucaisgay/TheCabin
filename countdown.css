@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+*{
+
+    background-color: #a52a2a;
+    font-family: Qahiri;
+
+}
+.countdown{
+    font-size: large;
+}
+p{
+
+    background-color: white;
+    display: inline-flex;
+    width: 200px;
+    height: 70px;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
